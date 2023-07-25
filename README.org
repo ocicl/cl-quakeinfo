@@ -1,0 +1,10 @@
+* cl-quakeinfo
+
+Common Lisp API for  USGS Earthquake info retrieval
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/e40/cl-quakeinfo.git   |
+| commit  | f164678  |
+| systems | cl-quakeinfo |
+|---------+-------------------------------------------|
+
